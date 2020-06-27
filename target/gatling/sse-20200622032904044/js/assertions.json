@@ -1,0 +1,10 @@
+{
+  "simulation": "com.knoldus.SSE",
+  "simulationId": "sse",
+  "start": 1592796544044,
+  "description": "",
+  "scenarios": ["sse_demo"],
+  "assertions": [
+
+  ]
+}
